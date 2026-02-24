@@ -79,7 +79,6 @@ GROUP_LINKS = {
     -1001543754946: "https://t.me/ToshkentYangiqorgonIskovot",
     -1001909094110: "https://t.me/Chortoq_Uychi_Toshkent_Taksi",
     -1002203423250: "https://t.me/toshkent_namangantax2",
-    -1002692817633: "https://t.me/piter_maskvataxi_taksi7",
     -1001675691028: "https://t.me/ToshkentZarkentTaksi",
     -1001740305112: "https://t.me/Uychi_Toshkent_chortoq_taxii",
     -1001808183911: "https://t.me/Alixontaxi3113chortoqToshkent",
