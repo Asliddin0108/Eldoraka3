@@ -8,8 +8,6 @@ import re, os, traceback, tempfile
 # ✅ API ma'lumotlari (o'zingizniki)
 api_id = 20439154
 api_hash = "3125ce8355eebd911e56d564d643bb64"
-import telethon
-print("Telethon version:", telethon.__version__)
 client = TelegramClient("bot1_openA", api_id, api_hash)
 
 # 🛡 Railway uchun instance nazorati
@@ -54,6 +52,23 @@ SOURCE_CHAT_IDS = [
     -1001729440809,
     -1002371017826,
     -1001643910339,
+    -1001738238165,
+    -1002456210489,
+    -1001292647686,
+    -1002404174252,
+    -1003150233431,
+    -1001906483475,
+    -1002169036132,
+    -1001836208905,
+    -1002205668559,
+    -1002354544135,
+    -1002594169919,
+    -1002212393138,
+    -1002287692242,
+    -1002439345050,
+    -1002492925904,
+    -1002655406984,
+    -1002770426643,
 ]
 
 
@@ -90,6 +105,23 @@ GROUP_LINKS = {
     -1001729440809: "https://t.me/CHORTOQ_UYCHI_Taxi1",
     -1002371017826: "https://t.me/Chortoq_Uychi_Namangan",
     -1001643910339: "https://t.me/namangan_toshkenttaxi",
+    -1001738238165: "https://t.me/norin_toshkent_taxi_online",
+    -1002456210489: "https://t.me/uchqorgon_taxi1",
+    -1001292647686: "https://t.me/qogaytaksichilari",
+    -1002404174252: "https://t.me/toshkend_uchqorgon",
+    -1003150233431: "https://t.me/QULAY150",
+    -1001906483475: "https://t.me/uchqorgon_toshkent",
+    -1002169036132: "https://t.me/Tochkentushkurgan",
+    -1001836208905: "https://t.me/Uchqurgon_Uychi_Chotoq_Toshkent",
+    -1002205668559: "https://t.me/chortoq_toshken",
+    -1002354544135: "https://t.me/norintoshkent524",
+    -1002594169919: "https://t.me/namangansamarqandtaks",
+    -1002212393138: "https://t.me/Uychi_Toshkent_Uychi",
+    -1002287692242: "https://t.me/poputchikchortoq1",
+    -1002439345050: "https://t.me/qogay_toshkent",
+    -1002492925904: "https://t.me/Norin_Toshkent_1",
+    -1002655406984: "https://t.me/Burgut_vodiy_Toshkent",
+    -1002770426643: "https://t.me/Navoiy_Toshkent_Samarqand_Taxi",    
 }
 
 # ===== Normalizatsiya (emoji + translit + typo tuzatish) =====
