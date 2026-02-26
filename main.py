@@ -22,7 +22,6 @@ else:
 SOURCE_CHAT_IDS = [
     -1001983802342,
     -1001626896720,
-    -1002187875935,
     -1001543754946,
     -1001909094110,
     -1002203423250,
@@ -38,7 +37,6 @@ SOURCE_CHAT_IDS = [
     -1001604155608,
     -1002245881447,
     -1002032001787,
-    -1002586586398,
     -1002078787425,
     -1001708221879,
     -1002109689918,
@@ -75,7 +73,6 @@ SOURCE_CHAT_IDS = [
 GROUP_LINKS = {
     -1001983802342: "https://t.me/toshkent_namangan2",
     -1001626896720: "https://t.me/havolalap",
-    -1002187875935: "https://t.me/a1raxm",
     -1001543754946: "https://t.me/ToshkentYangiqorgonIskovot",
     -1001909094110: "https://t.me/Chortoq_Uychi_Toshkent_Taksi",
     -1002203423250: "https://t.me/toshkent_namangantax2",
@@ -90,7 +87,6 @@ GROUP_LINKS = {
     -1001604155608: "https://t.me/uchqurgon_toshkent",
     -1002245881447: "https://t.me/Namangan_toshkent07",
     -1002032001787: "https://t.me/Namangan_uychi_toshken",
-    -1002586586398: "https://t.me/toshkent_kosonsoy_taxi_n1",
     -1002078787425: "https://t.me/NamanganToshkenttt",
     -1001708221879: "https://t.me/Namangan_50_060",
     -1002109689918: "https://t.me/towkentnamangan",
